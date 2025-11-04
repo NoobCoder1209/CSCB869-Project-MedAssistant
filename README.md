@@ -1,1 +1,0 @@
-# CSCB869-Project-MedAssistant
